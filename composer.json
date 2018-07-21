@@ -1,0 +1,41 @@
+{
+
+	"name": "jacob-ian/media-gallery",
+	"description": "A PHP media gallery with content filtering system.",
+	"type": "library",
+	"keywords": ["gallery", "media", "photos", "videos", "php", "filter"],
+	"license": "Apache-2.0",
+	"homepage": "https://github.com/jacob-ian/instagram-feed",
+	"authors": [
+		{
+			"name": "Jacob Ian Matthews",
+			"email": "jacob@jacobian.com.au",
+			"homepage": "https://jacobian.com.au",
+			"role": "Developer"
+		}
+	],
+
+	"require": {
+
+		"php": ">=7.2.0"
+
+	},
+
+	"require-dev": {
+
+		"php": ">=7.2.0"
+
+	},
+
+	"autoload": {
+
+		"psr-4": {
+
+			"JacobIan\\MediaGallery\\" : "src/"
+
+		}
+
+	}
+
+
+}
