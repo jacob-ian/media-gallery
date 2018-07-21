@@ -1,0 +1,340 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"j_num",
+				"j_num_holder\t(contact.php)"
+			],
+			[
+				"desc",
+				"description\t(blog.php)"
+			],
+			[
+				"auto",
+				"auto"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 75,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 800.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"remo",
+				"Git: Add Remote"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"rem",
+				"Git: Remote"
+			],
+			[
+				"gst",
+				"Git: Status"
+			],
+			[
+				"gin",
+				"Git: Init"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"gitinit",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"colo",
+				"Color Picker"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1088.0
+	},
+	"console":
+	{
+		"height": 266.0,
+		"history":
+		[
+			"exit()",
+			"quit()",
+			"terminal"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/media-gallery"
+	],
+	"file_history":
+	[
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/media-gallery/.gitignore",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/instagram-feed/tests",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/instagram-feed/composer.json",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/instagram-feed/LICENSE",
+		"/C/Users/Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/instagram-feed/instagram-feed.sublime-project",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/instagram-feed/README.md",
+		"/C/Users/Jacob/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/Default.sublime-keymap",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/testproj1/.htaccess",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/testproj1/composer.json",
+		"/C/Users/Jacob/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/Jacob/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/Jacob/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/README.md",
+		"/D/Users/Jacob/Google Drive/DEVELOPMENT/PHP/testproj1/web/index.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/inc/meta.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/inc/header.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/css/shared.css",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/css/login.css",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/login.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/blog.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/js/scroll.js",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/js/load.js",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/css/main.css",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/inc/blog_latest.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/css/contact.css",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/js/number.js",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/index.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/css/index.css",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/contact.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/inc/variables.php",
+		"/D/Users/Jacob/Google Drive/MODELLING/Website/inc/insta_latest.php",
+		"/J/public_html/index.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/inc/footer.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/inc/header.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/inta_latest.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/js/scroll.js",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/js/navbar.js",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/js/load.js",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/sitemap.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/gallery.php",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/contact.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/.htaccess",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/css/blog.css",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/css/contact.css",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/css/gallery.css",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/js/scrollbtn.js",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/ftpsync.settings",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/index.html",
+		"/C/Users/Jacob/Google Drive/MODELLING/Website/blog.html",
+		"/C/Users/Jacob/Desktop/test.js"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 218.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git-commit":
+	{
+		"height": 162.0
+	},
+	"output.git-init":
+	{
+		"height": 162.0
+	},
+	"output.git-push":
+	{
+		"height": 162.0
+	},
+	"pinned_build_system": "",
+	"project": "media-gallery.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\Jacob\\Google Drive\\DEVELOPMENT\\PHP\\instagram-feed\\instagram-feed.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 305.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
